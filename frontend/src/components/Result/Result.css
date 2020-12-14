@@ -1,0 +1,15 @@
+.result-wrapper {
+  margin-top: 1em;
+}
+
+.result-button__reset {
+  margin-top: 1em;
+}
+
+.result-value {
+  color: #1075e9 !important;
+}
+
+.result-row__center {
+  text-align: center;
+}
